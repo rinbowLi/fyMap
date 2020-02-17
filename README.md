@@ -10,15 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 效果截图
 
-### Lints and fixes files
-```
-npm run lint
-```
+![效果截图](https://github.com/1165973875/fyMap/blob/master/forMarkdown/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
